@@ -1,9 +1,9 @@
 # array_undot
 
-[![Build Status](https://travis-ci.org/rapidwebltd/array_undot.svg?branch=master)](https://travis-ci.org/rapidwebltd/array_undot)
-[![Coverage Status](https://coveralls.io/repos/github/rapidwebltd/array_undot/badge.svg?branch=master)](https://coveralls.io/github/rapidwebltd/array_undot?branch=master)
+[![Build Status](https://travis-ci.org/DivineOmega/array_undot.svg?branch=master)](https://travis-ci.org/DivineOmega/array_undot)
+[![Coverage Status](https://coveralls.io/repos/github/DivineOmega/array_undot/badge.svg?branch=master)](https://coveralls.io/github/DivineOmega/array_undot?branch=master)
 [![StyleCI](https://styleci.io/repos/117241773/shield?branch=master)](https://styleci.io/repos/117241773)
-![Packagist](https://img.shields.io/packagist/dt/rapidwebltd/array_undot.svg)
+![Packagist](https://img.shields.io/packagist/dt/DivineOmega/array_undot.svg)
 
 This package provides a helper function called `array_undot`, which expands a dot notation array into a full multi-dimensional array. 
 It is, therefore, the opposite of the `array_dot` helper function provided by Laravel.
