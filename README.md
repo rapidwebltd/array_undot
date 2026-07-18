@@ -1,8 +1,9 @@
 # array_undot
 
-[![Build Status](https://travis-ci.org/DivineOmega/array_undot.svg?branch=master)](https://travis-ci.org/DivineOmega/array_undot)
-[![Coverage Status](https://coveralls.io/repos/github/DivineOmega/array_undot/badge.svg?branch=master)](https://coveralls.io/github/DivineOmega/array_undot?branch=master)
-![Packagist](https://img.shields.io/packagist/dt/DivineOmega/array_undot.svg)
+> [!WARNING]
+> This package is retired and no longer maintained. Use [`jord-jd/array_undot`](https://packagist.org/packages/jord-jd/array_undot) instead. The maintained successor supports current PHP versions and preserves the `array_undot()` API.
+
+![Packagist](https://img.shields.io/packagist/dt/rapidwebltd/array_undot.svg)
 
 This package provides a helper function called `array_undot`, which expands a dot notation array into a full multi-dimensional array. 
 It is, therefore, the opposite of the `array_dot` helper function provided by Laravel.
